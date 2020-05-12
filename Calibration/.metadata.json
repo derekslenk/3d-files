@@ -1,0 +1,227 @@
+{
+    "CE3_SmartTemperatureTower_PLA_Plus_195-235.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 9941.128693305
+            },
+            "lastPrintTime": {
+                "_default": 9962.179971533
+            }
+        },
+        "hash": "c65b3fc760669cba5022877f0daaa1cda0191523",
+        "analysis": {
+            "estimatedPrintTime": 7687.349407743635,
+            "printingArea": {
+                "maxZ": 91.4,
+                "maxX": 144.325,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 144.225,
+                "depth": 180.0,
+                "height": 91.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 5695.976030000071
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589083613.277133,
+                "printTime": 9920.077415077001,
+                "printerProfile": "_default",
+                "success": true
+            },
+            {
+                "timestamp": 1589242439.985644,
+                "printTime": 9962.179971533,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_3DBenchy.gcode": {
+        "hash": "991634766950852ac5cc3a695814954d7120c324",
+        "analysis": {
+            "estimatedPrintTime": 8739.533735303097,
+            "printingArea": {
+                "maxZ": 48.0,
+                "maxX": 139.796,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 139.696,
+                "depth": 180.0,
+                "height": 47.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4213.65984999989
+                }
+            }
+        }
+    },
+    "xyzCalibration_cube-205.gcode": {
+        "hash": "313ba673c68b27550437795a0441f3bccd0d7df1",
+        "analysis": {
+            "estimatedPrintTime": 3057.1108000220866,
+            "printingArea": {
+                "maxZ": 19.92,
+                "maxX": 131.0,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 130.9,
+                "depth": 180.0,
+                "height": 19.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1812.1082299999994
+                }
+            }
+        }
+    },
+    "xyzCalibration_cube-200.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 3905.1377915760004
+            },
+            "lastPrintTime": {
+                "_default": 3905.1377915760004
+            }
+        },
+        "hash": "f524a796485e3ec3f0fc09e443e5dc1e3880f6ab",
+        "analysis": {
+            "estimatedPrintTime": 3057.1108000220866,
+            "printingArea": {
+                "maxZ": 19.92,
+                "maxX": 131.0,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.12
+            },
+            "dimensions": {
+                "width": 130.9,
+                "depth": 180.0,
+                "height": 19.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1812.1082299999994
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589059238.813076,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1589063283.881333,
+                "printTime": 3905.1377915760004,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_Ender_3_Extruder_Knob1.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 10805.499106062001
+            },
+            "lastPrintTime": {
+                "_default": 10805.499106062001
+            }
+        },
+        "hash": "10ab5fdd268bd06bc9b54379e5b04022d6be56e7",
+        "analysis": {
+            "estimatedPrintTime": 8192.06110944886,
+            "printingArea": {
+                "maxZ": 60.0,
+                "maxX": 141.0,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 140.9,
+                "depth": 180.0,
+                "height": 59.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6298.742889999919
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589254622.948554,
+                "printTime": 10805.499106062001,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_xyzCalibration_cube_215.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 2278.694384057
+            },
+            "lastPrintTime": {
+                "_default": 2278.694384057
+            }
+        },
+        "hash": "8baa1c4f6e0e30edbc0f50c75bc83b71ddd8ee72",
+        "analysis": {
+            "estimatedPrintTime": 1615.7021084497676,
+            "printingArea": {
+                "maxZ": 20.0,
+                "maxX": 131.0,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 130.9,
+                "depth": 180.0,
+                "height": 19.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1632.831150000001
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589226163.57152,
+                "printTime": 2278.694384057,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

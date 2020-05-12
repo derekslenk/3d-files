@@ -1,0 +1,319 @@
+{
+    "PLAPlus_CE3_Fan_guard_with_support_fins.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 9623.058128501
+            },
+            "lastPrintTime": {
+                "_default": 9623.058128501
+            }
+        },
+        "hash": "c7834e3664600c788bbbb145d385001cec2f9698",
+        "analysis": {
+            "estimatedPrintTime": 8331.059665273606,
+            "printingArea": {
+                "maxZ": 14.0,
+                "maxX": 178.467,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 178.36700000000002,
+                "depth": 180.0,
+                "height": 13.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6394.508509999991
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589169055.541416,
+                "printTime": 9623.058128501,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_HeadphoneHolder.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 10221.695966001003
+            },
+            "lastPrintTime": {
+                "_default": 10221.695966001003
+            }
+        },
+        "hash": "4944e6b8d09d1218551b3ba61bd4b8f4e2e1f60b",
+        "analysis": {
+            "estimatedPrintTime": 8464.950543888186,
+            "printingArea": {
+                "maxZ": 30.0,
+                "maxX": 142.5,
+                "maxY": 158.748,
+                "minX": 77.5,
+                "minY": 61.251,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 65.0,
+                "depth": 97.49699999999999,
+                "height": 29.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6918.535650000007
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1588877860.518485,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1588888332.296841,
+                "printTime": 10221.695966001003,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_cable-holder-v3.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 666.0677282179986
+            },
+            "lastPrintTime": {
+                "_default": 666.0677282179986
+            }
+        },
+        "hash": "85fd8acd1f5d1aa12bf27f9b341afc272c0b6385",
+        "analysis": {
+            "estimatedPrintTime": 416.8202572569148,
+            "printingArea": {
+                "maxZ": 3.8,
+                "maxX": 134.977,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 134.877,
+                "depth": 180.0,
+                "height": 3.5999999999999996
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 327.53204000000073
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589170908.576831,
+                "printTime": 666.0677282179986,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_ender_station_BFC_200_70.gcode": {
+        "hash": "1afb9ab463bb9691f039f78b6e04a0124604251d",
+        "analysis": {
+            "estimatedPrintTime": 49198.82291212144,
+            "printingArea": {
+                "maxZ": 97.0,
+                "minX": 0.1,
+                "maxX": 179.384,
+                "maxY": 200.0,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 179.284,
+                "depth": 180.0,
+                "height": 96.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 37187.61012000876
+                }
+            }
+        }
+    },
+    "CE3_pi_camera_mount_with_cable_chain_mount.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 10078.097446079999
+            },
+            "lastPrintTime": {
+                "_default": 10078.097446079999
+            }
+        },
+        "hash": "3396dd30298569efd5c6d1db1db8f5e8cfbfa34c",
+        "analysis": {
+            "estimatedPrintTime": 8005.924075500122,
+            "printingArea": {
+                "maxZ": 41.88,
+                "maxX": 145.249,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 145.149,
+                "depth": 180.0,
+                "height": 41.68
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4603.89096999989
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1588801543.899991,
+                "printTime": 10078.097446079999,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_ender_station_BFC.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "7b668c90e18f5928dd49d5b7f37459ef460748b0",
+        "analysis": {
+            "estimatedPrintTime": 49600.867283239335,
+            "printingArea": {
+                "maxZ": 97.0,
+                "maxX": 179.335,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 179.235,
+                "depth": 180.0,
+                "height": 96.8
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 37515.22232000878
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589261775.327377,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1589299041.376486,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "PLAPlus_CE3_Tool_holder_with_SD.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 16153.974489830998
+            },
+            "lastPrintTime": {
+                "_default": 16153.974489830998
+            }
+        },
+        "hash": "489a9b8cea992375703d7d5a8ec82fb002d93b46",
+        "analysis": {
+            "estimatedPrintTime": 13430.757544911603,
+            "printingArea": {
+                "maxZ": 19.4,
+                "maxX": 150.58,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 150.48000000000002,
+                "depth": 180.0,
+                "height": 19.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 10003.15607999993
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589190375.231964,
+                "printTime": 16153.974489830998,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    },
+    "CE3_Pirate2_v133.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 11032.536993493999
+            },
+            "lastPrintTime": {
+                "_default": 11032.536993493999
+            }
+        },
+        "hash": "93267a6acb63fab5f33d34eb347014be77386103",
+        "analysis": {
+            "estimatedPrintTime": 9285.921468921946,
+            "printingArea": {
+                "maxZ": 14.96,
+                "maxX": 156.001,
+                "maxY": 200.0,
+                "minX": 0.1,
+                "minY": 20.0,
+                "minZ": 0.2
+            },
+            "dimensions": {
+                "width": 155.901,
+                "depth": 180.0,
+                "height": 14.760000000000002
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4692.043680000047
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1589095284.07392,
+                "printTime": 11032.536993493999,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}
